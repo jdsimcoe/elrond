@@ -44,7 +44,7 @@ endif
 
 highlight CursorLine    ctermbg=234               guibg=#1c1c1c
 highlight CursorLineNr  ctermbg=235 ctermfg=246   guibg=#262626 guifg=#949494
-highlight LineNr        ctermbg=234 ctermfg=238   guibg=#1c1c1c guifg=#444444
+highlight LineNr        ctermbg=16  ctermfg=235   guibg=#000000 guifg=#333333
 highlight SignColumn    ctermbg=234               guibg=#1c1c1c
 highlight Pmenu         ctermbg=235 ctermfg=White guibg=#262626 guifg=#ffffff
 highlight PmenuSel      ctermbg=238 ctermfg=White guibg=#444444 guifg=#ffffff
